@@ -90,6 +90,7 @@ The setup script creates:
 ### Environment Setup
 
 The pipeline uses four separate conda environments:
+To create them run the make_separate_env.sh script of this repository
 
 1. **bam_sim_base**: Core Python packages
    ```yaml
