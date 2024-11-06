@@ -46,6 +46,9 @@ conda config --add channels conda-forge
 ```
 
 3. Download and install SomatoSim:
+
+*Make sure that you install SomatoSim inside this cloned repository the directory structure is shown below
+
 ```bash
 git clone https://github.com/BieseckerLab/SomatoSim.git
 cd SomatoSim
