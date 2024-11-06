@@ -52,6 +52,7 @@ conda config --add channels conda-forge
 ```bash
 git clone https://github.com/BieseckerLab/SomatoSim.git
 cd SomatoSim
+python3 -m pip install .
 ```
 
 4. Create and configure environments:
