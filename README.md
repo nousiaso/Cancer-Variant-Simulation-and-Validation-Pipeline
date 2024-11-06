@@ -152,7 +152,8 @@ snakemake_wrapper.sh --version
 ### Configuration
 
 Edit the config section in Snakefile to set your parameters:
-
+you can also change the number of SNVs in the Snakefile easily
+at "number_snv": 10000
 ```python
 config = {
     "samples": ["tumor1"],
